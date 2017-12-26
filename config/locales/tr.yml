@@ -1,0 +1,7 @@
+tr: 
+    hello: 'Uygulamama hosgeldiniz!'
+    home: 'Ana Sayfa'
+    signin: 'Oturum Aç'
+    signup: 'Üye Ol'
+    exit: 'Çıkış'
+    settings: 'Ayarlar'
